@@ -1,0 +1,18 @@
+[
+  {"question": "满多少钱免运费", "expected_topic": "配送说明", "expected_keywords": ["99"]},
+  {"question": "下单后多久发货", "expected_topic": "配送说明", "expected_keywords": ["48"]},
+  {"question": "生鲜商品拆封后能退吗", "expected_topic": "退货政策", "expected_keywords": ["不予退货"]},
+  {"question": "收货后几天内可以申请退货", "expected_topic": "退货政策", "expected_keywords": ["7"]},
+  {"question": "手机摔坏了需要自己出维修费吗", "expected_topic": "保修政策", "expected_keywords": ["承担"]},
+  {"question": "产品保修期多久", "expected_topic": "保修政策", "expected_keywords": ["一年"]},
+  {"question": "100积分能抵多少钱", "expected_topic": "会员积分", "expected_keywords": ["1元"]},
+  {"question": "积分多久会过期", "expected_topic": "会员积分", "expected_keywords": ["一年"]},
+  {"question": "紧急问题怎么联系客服", "expected_topic": "客服时间", "expected_keywords": ["热线"]},
+  {"question": "企业发票需要提供什么", "expected_topic": "发票开具", "expected_keywords": ["纳税人识别号"]},
+
+  {"question": "今天天气怎么样", "expected_topic": null, "expected_keywords": []},
+  {"question": "你们支持货到付款吗", "expected_topic": null, "expected_keywords": []},
+  {"question": "退款多久能到账", "expected_topic": null, "expected_keywords": []},
+  {"question": "公司总部在哪里", "expected_topic": null, "expected_keywords": []},
+  {"question": "可以分期付款吗", "expected_topic": null, "expected_keywords": []}
+]
